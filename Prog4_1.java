@@ -29,5 +29,7 @@ public class Prog1_0 {
 
         System.out.println("");
         System.out.println("Version definitiva y refundida");
+
+        system.out.println("Aqui acaba el trabajo");
     }
 }
