@@ -13,6 +13,11 @@ public class Prog1_0 {
 
         volumen = (4 * (Math.PI) * (Math.pow(radio,3))/3);
 
+        System.out.println("El volumen de la esfera cuyo radio "+radio+" es 
+        "+volumen);
+        System.out.println("Finalizado Version 1");
+    
+        
 
     }
 }
