@@ -11,5 +11,8 @@ public class Prog1_0 {
 
         double volumen;
 
+        volumen = (4 * (Math.PI) * (Math.pow(radio,3))/3);
+
+
     }
 }
